@@ -1,0 +1,6 @@
+framework module CompontentTests {
+  umbrella header "CompontentTests-umbrella.h"
+
+  export *
+  module * { export * }
+}
